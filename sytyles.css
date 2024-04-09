@@ -1,0 +1,46 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 20%;
+}
+
+#table-container {
+    overflow-x: auto;
+    max-width: 80%;
+    margin: auto;
+}
+
+#data-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#data-table th, #data-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#data-table th {
+    background-color: #f2f2f2;
+} */
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+h1 {
+    text-align: center;
+}
+
